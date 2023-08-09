@@ -1,0 +1,7 @@
+{
+  "name": "XClipboarder",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
